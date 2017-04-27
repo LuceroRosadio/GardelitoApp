@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tabs>
+
+    <tab
+        id="@+id/register"
+        title="@string/tab_register"
+        barColorWhenSelected="@color/colorPrimary"
+        icon="@drawable/register" />
+
+    <tab
+        id="@+id/menu"
+        title="@string/tab_menu"
+        barColorWhenSelected="@color/colorPrimary"
+        icon="@drawable/menu"/>
+
+    <tab
+        id="@+id/order"
+        title="@string/tab_order"
+        barColorWhenSelected="@color/colorPrimary"
+        icon="@drawable/order"/>
+
+    <tab
+        id="@+id/report"
+        title="@string/tab_report"
+        barColorWhenSelected="@color/colorPrimary"
+        icon="@drawable/report"/>
+
+</tabs>
